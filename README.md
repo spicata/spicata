@@ -1,9 +1,6 @@
-# Intro
----
-**spicata**<br>
-**2022-02-11**
+# About Me
+I'm just a plant here to have some fun. 
 
----
-I'm spicata (mentha spicata, spearmint) and I'm here just to upload stuff <br>
-That's all <br>
-Goodbye
+I upload my notes and various other things to GitHub, however, I also have a [website](https://mint-garden.netlify.app/) linked to one of my notes.
+
+You could contact me at spicata#9966, or not.
