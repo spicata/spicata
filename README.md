@@ -1,6 +1,7 @@
-# About Me
-I'm just a plant here to have some fun. 
+![There's a photo here](Github.png)
 
-I upload my notes and various other things to GitHub, however, I also have a [website](https://mint-garden.netlify.app/) linked to one of my notes.
+I'm an amateur researcher just uploading my notes and hosting my [website](https://spicata.github.io/mint-fresh-notes) on GitHub. I also sometimes (very rarely) post issues. 
 
-You could contact me at Mspicata#9966, or not.
+If you were so curious — which I highly doubt — you could also check out [the Notes Coalition](https://notes-coalition.github.io/), where others and I have created a kind of directory to our notes.
+
+Finally, you could always contact me at Mspicata#9966.
