@@ -1,4 +1,4 @@
-![There's a photo here](Github.png)
+![There's a photo here](NewGithub.png)
 
 I'm an amateur researcher just uploading my notes and hosting my [website](https://spicata.github.io/mint-fresh-notes) on GitHub. I also sometimes (very rarely) post issues. 
 
